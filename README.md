@@ -91,3 +91,55 @@ Para realizar este proyecto hemos escogido y utilizado las siguientes actividade
 
 </p>
 
+## 2. SÍNTESIS Y DEFINICIÓN
+### Affinity map
+
+### User personas
+
+### Customer journey map
+
+### Problem statements
+
+### Priorización
+
+### Mapa de sitio
+
+### User flow
+
+
+
+## 3. IDEACIÓN
+
+### Benchmark de funcionalidades
+
+## 4 y 5. PROTOTIPADO Y TESTING
+
+###  Prototipo de baja fidelidad
+
+###  Prototipo de alta fidelidad
+
+###  Feedback (banco Ripley)
+
+###  Testing del prototipo de alta fidelidad
+
+###  Segundo prototipo de alta fidelidad
+
+
+## IV.- RECOMENDACIONES
+
+## V.- ENLACES
+
+## Prototipo navegable
+[Link a prototipo navegable]()
+
+## Link de Figma
+[Link a prototipo navegable]()
+
+## Link de Zeplin
+[Link a Zeplin]()
+
+## Proyecto en Drive
+[Link a documentación en Google Drive]()
+
+## Video en Loom
+[Link a video de explicación del proyecto]()
