@@ -77,14 +77,22 @@ Para realizar este proyecto hemos escogido y utilizado las siguientes actividade
 
 </p>
 
+- [Reporte de Maze](https://maze.design/r/7bnqac4vjw74m6h6)
+
 ### Entrevistas con posibles usuarios
 <p  align="center">
 
-<img  src="http://i65.tinypic.com/2mmfn9g.png" >
+<img  src="http://i66.tinypic.com/2r6pgfo.jpg" >
 
 </p>
 
-- [Videos del testing del prototipo actual]()
+<p  align="center">
+
+<img  src="http://i64.tinypic.com/2640u1j.jpg" >
+
+</p>
+
+- [Videos y audios de las entrevistas](https://drive.google.com/drive/folders/1WW0W1aluir30s_trWUUykadW5I5RURiQ)
 
 ### Análisis de la data
 <p  align="center">
