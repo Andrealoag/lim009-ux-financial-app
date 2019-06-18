@@ -55,14 +55,21 @@ Para realizar este proyecto hemos escogido y utilizado las siguientes actividade
 
 </p>
 
-### Testing del prototipo actual
+### Testing del prototipo del cliente
 
 <p  align="center">
 
-<img  src="http://i65.tinypic.com/29nc5na.png" >
+<img  src="http://i65.tinypic.com/245kimr.png" >
 
 </p>
 
+<p  align="center">
+
+<img  src="http://i68.tinypic.com/2e1vi9g.png" >
+
+</p>
+
+- [Videos del testing del prototipo del cliente](https://drive.google.com/drive/folders/1ifuyjWy3eJju9gqBIsDcExofHeUu-pyX)
 
 <p  align="center">
 
@@ -76,6 +83,8 @@ Para realizar este proyecto hemos escogido y utilizado las siguientes actividade
 <img  src="http://i65.tinypic.com/2mmfn9g.png" >
 
 </p>
+
+- [Videos del testing del prototipo actual]()
 
 ### Análisis de la data
 <p  align="center">
