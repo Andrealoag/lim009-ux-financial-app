@@ -88,7 +88,7 @@ Para realizar este proyecto hemos escogido y utilizado las siguientes actividade
 
 <p  align="center">
 
-<img  src="http://i64.tinypic.com/2640u1j.jpg" >
+<img  src="http://i66.tinypic.com/veacft.jpg" >
 
 </p>
 
