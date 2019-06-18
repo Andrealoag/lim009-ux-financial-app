@@ -43,7 +43,7 @@ Para realizar este proyecto hemos escogido y utilizado las siguientes actividade
 
 <p  align="center">
 
-<img  src="http://i64.tinypic.com/n20dhx.png" >
+<img  src="http://i64.tinypic.com/n20dhx.png"  widht="1000">
 
 </p>
 
