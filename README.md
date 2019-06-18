@@ -39,7 +39,13 @@ Para realizar este proyecto hemos escogido y utilizado las siguientes actividade
 
 ## III.- Desarrollo del proyecto
 
-## 1. INVESTIGACIÓN
+## 1. DESCUBRIMIENTO E INVESTIGACIÓN
 
-Contexto en el Perú
-Entrevista con el clientes
+<p  align="center">
+
+<img  src="http://i64.tinypic.com/n20dhx.png" >
+
+</p>
+
+Análisis de la data
+Entrevistas con posibles usuarios
