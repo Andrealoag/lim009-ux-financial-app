@@ -41,11 +41,53 @@ Para realizar este proyecto hemos escogido y utilizado las siguientes actividade
 
 ## 1. DESCUBRIMIENTO E INVESTIGACIÓN
 
+### Contexto en el Perú
 <p  align="center">
 
-<img  src="http://i64.tinypic.com/n20dhx.png"  widht="1000">
+<img  src="http://i68.tinypic.com/2rxceao.png" >
 
 </p>
 
-Análisis de la data
-Entrevistas con posibles usuarios
+### Entrevista con el cliente
+<p  align="center">
+
+<img  src="http://i68.tinypic.com/6gls1i.png" >
+
+</p>
+
+### Testing del prototipo actual
+
+<p  align="center">
+
+<img  src="http://i65.tinypic.com/29nc5na.png" >
+
+</p>
+
+
+<p  align="center">
+
+<img  src="http://i63.tinypic.com/2jg438o.png" >
+
+</p>
+
+### Entrevistas con posibles usuarios
+<p  align="center">
+
+<img  src="http://i65.tinypic.com/2mmfn9g.png" >
+
+</p>
+
+### Análisis de la data
+<p  align="center">
+
+<img  src="http://i65.tinypic.com/2mmfn9g.png" >
+
+</p>
+
+### Benchmark
+<p  align="center">
+
+<img  src="http://i65.tinypic.com/2mmfn9g.png" >
+
+</p>
+
