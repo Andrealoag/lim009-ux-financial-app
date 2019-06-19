@@ -113,6 +113,12 @@ Para realizar este proyecto hemos escogido y utilizado las siguientes actividade
 
 ### User persona
 
+<p  align="center">
+
+<img  src="http://i68.tinypic.com/349csxu.png" >
+
+</p>
+
 ### Customer journey map
 
 <p  align="center">
