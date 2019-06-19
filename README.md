@@ -130,7 +130,7 @@ Para realizar este proyecto hemos escogido y utilizado las siguientes actividade
 
 <p  align="center">
 
-<img  src="http://i64.tinypic.com/e1d7hs.png" >
+<img  src="http://i64.tinypic.com/e1d7hs.png" width="500" heigth="500">
 
 </p>
 
