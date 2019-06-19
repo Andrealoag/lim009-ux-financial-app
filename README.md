@@ -111,16 +111,23 @@ Para realizar este proyecto hemos escogido y utilizado las siguientes actividade
 ## 2. SÍNTESIS Y DEFINICIÓN
 ### Affinity map
 
-### User personas
+### User persona
 
 ### Customer journey map
 
-### Problem statements
+<p  align="center">
+
+<img  src="http://i66.tinypic.com/69ovn7.png" >
+
+</p>
 <p  align="center">
 
 <img  src="http://i68.tinypic.com/33uvko7.png" >
 
 </p>
+
+### Problem statements
+
 
 ### Priorización
 
@@ -151,13 +158,11 @@ Para realizar este proyecto hemos escogido y utilizado las siguientes actividade
 [Link a prototipo navegable]()
 
 ## Link de Figma
-[Link a prototipo navegable]()
+[Link a prototipo navegable](https://www.figma.com/file/IRiu59RvKAVfuwHIkfyEKM/App-financiera?node-id=2610%3A0)
 
 ## Link de Zeplin
 [Link a Zeplin]()
 
 ## Proyecto en Drive
-[Link a documentación en Google Drive]()
+[Link a documentación en Google Drive](https://drive.google.com/drive/folders/1-dxbjFv4YzBd6SrMB8hsboVAw0xcpNlc)
 
-## Video en Loom
-[Link a video de explicación del proyecto]()
