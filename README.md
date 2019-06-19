@@ -115,7 +115,13 @@ Para realizar este proyecto hemos escogido y utilizado las siguientes actividade
 
 <p  align="center">
 
-<img  src="http://i67.tinypic.com/t9jvuq.png" >
+<img  src="http://i65.tinypic.com/eiplx5.png" >
+
+</p>
+
+<p  align="center">
+
+<img  src="http://i65.tinypic.com/nyzeig.jpg" >
 
 </p>
 
@@ -130,7 +136,7 @@ Para realizar este proyecto hemos escogido y utilizado las siguientes actividade
 
 <p  align="center">
 
-<img  src="http://i64.tinypic.com/e1d7hs.png" width="700" heigth="700">
+<img  src="http://i64.tinypic.com/e1d7hs.png" heigth="700">
 
 </p>
 
