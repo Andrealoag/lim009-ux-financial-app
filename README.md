@@ -97,7 +97,7 @@ Para realizar este proyecto hemos escogido y utilizado las siguientes actividade
 ### Análisis de la data
 <p  align="center">
 
-<img  src="http://i65.tinypic.com/2mmfn9g.png" >
+<img  src="http://i67.tinypic.com/35hjlhg.png" >
 
 </p>
 
@@ -116,12 +116,13 @@ Para realizar este proyecto hemos escogido y utilizado las siguientes actividade
 ### Customer journey map
 
 ### Problem statements
+<p  align="center">
+
+<img  src="http://i68.tinypic.com/33uvko7.png" >
+
+</p>
 
 ### Priorización
-
-### Mapa de sitio
-
-### User flow
 
 
 
