@@ -136,7 +136,7 @@ Para realizar este proyecto hemos escogido y utilizado las siguientes actividade
 
 <p  align="center">
 
-<img  src="http://i67.tinypic.com/20g16jp.png" height="600">
+<img  src="http://i67.tinypic.com/20g16jp.png" height="500">
 
 </p>
 
@@ -158,11 +158,22 @@ Para realizar este proyecto hemos escogido y utilizado las siguientes actividade
 
 ###  Prototipo de alta fidelidad
 
+[PRIMER Prototipo de alta fidelidad- Figma](https://www.figma.com/file/NjHg3zCqHgNQz6AuDp0BzfWX/Untitled?node-id=3%3A1546)
 ###  Feedback (banco Ripley)
 
 ###  Testing del prototipo de alta fidelidad
+<p  align="center">
+
+<img  src="http://i67.tinypic.com/6sgi1y.png" >
+
+</p>
 
 ###  Segundo prototipo de alta fidelidad
+<p  align="center">
+
+<img  src="http://i67.tinypic.com/no6hyo.png" >
+
+</p>
 
 
 ## IV.- RECOMENDACIONES
