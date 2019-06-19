@@ -115,27 +115,26 @@ Para realizar este proyecto hemos escogido y utilizado las siguientes actividade
 
 <p  align="center">
 
-<img  src="http://i68.tinypic.com/349csxu.png" >
+<img  src="http://i67.tinypic.com/t9jvuq.png" >
 
 </p>
 
 ### Customer journey map
 
-<p  align="center">
 
-<img  src="http://i66.tinypic.com/69ovn7.png" >
-
-</p>
 <p  align="center">
 
 <img  src="http://i68.tinypic.com/33uvko7.png" >
 
 </p>
 
+<p  align="center">
+
+<img  src="http://i64.tinypic.com/e1d7hs.png" >
+
+</p>
+
 ### Problem statements
-
-
-### Priorización
 
 
 
