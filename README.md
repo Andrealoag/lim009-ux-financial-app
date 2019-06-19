@@ -135,7 +135,11 @@ Para realizar este proyecto hemos escogido y utilizado las siguientes actividade
 </p>
 
 ### Problem statements
+<p  align="center">
 
+<img  src="http://i67.tinypic.com/2l89n44.png" >
+
+</p>
 
 
 ## 3. IDEACIÓN
