@@ -14,7 +14,7 @@
 
 <p  align="center">
 
-<img  src="http://i65.tinypic.com/2mmfn9g.png" height="600">
+<img  src="http://i65.tinypic.com/2mmfn9g.png" >
 
 </p>
 
@@ -136,7 +136,7 @@ Para realizar este proyecto hemos escogido y utilizado las siguientes actividade
 
 <p  align="center">
 
-<img  src="http://i67.tinypic.com/20g16jp.png" height="500">
+<img  src="http://i67.tinypic.com/20g16jp.png" >
 
 </p>
 
@@ -174,8 +174,17 @@ Para realizar este proyecto hemos escogido y utilizado las siguientes actividade
 </p>
 
 ###  Prototipo de alta fidelidad
+<p  align="center">
 
+<img  src="http://i64.tinypic.com/1zdqijs.png" >
 
+</p>
+
+<p  align="center">
+
+<img  src="http://i67.tinypic.com/m83a1i.png" >
+
+</p>
 ###  Feedback (banco Ripley)
 <p  align="center">
 
