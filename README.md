@@ -101,15 +101,15 @@ Para realizar este proyecto hemos escogido y utilizado las siguientes actividade
 
 </p>
 
-### Benchmark
-<p  align="center">
 
-<img  src="http://i65.tinypic.com/2mmfn9g.png" >
-
-</p>
 
 ## 2. SÍNTESIS Y DEFINICIÓN
 ### Affinity map
+<p  align="center">
+
+<img  src="http://i65.tinypic.com/34jb2jd.jpg" >
+
+</p>
 
 ### User persona
 
@@ -151,15 +151,30 @@ Para realizar este proyecto hemos escogido y utilizado las siguientes actividade
 ## 3. IDEACIÓN
 
 ### Benchmark de funcionalidades
+<p  align="center">
+
+<img  src="http://i64.tinypic.com/2zz1et0.png" >
+
+</p>
 
 ## 4 y 5. PROTOTIPADO Y TESTING
 
 ###  Prototipo de baja fidelidad
+<p  align="center">
+
+<img  src="http://i68.tinypic.com/2ltlchy.png" >
+
+</p>
 
 ###  Prototipo de alta fidelidad
 
 
 ###  Feedback (banco Ripley)
+<p  align="center">
+
+<img  src="http://i67.tinypic.com/6sgi1y.png" >
+
+</p>
 
 ###  Testing del prototipo de alta fidelidad
 <p  align="center">
@@ -171,22 +186,22 @@ Para realizar este proyecto hemos escogido y utilizado las siguientes actividade
 ###  Segundo prototipo de alta fidelidad
 <p  align="center">
 
-<img  src="http://i67.tinypic.com/no6hyo.png" >
+<img  src="http://i68.tinypic.com/13ynzwn.png" >
 
 </p>
 <p  align="center">
 
-<img  src="http://i64.tinypic.com/dr337m.png" height="500">
+<img  src="http://i67.tinypic.com/1zmnsch.png" height="500">
 
 </p>
 
-[Prototipo de alta fidelidad- Figma]()
+
 ## IV.- RECOMENDACIONES
 
 ## V.- ENLACES
 
 ## Prototipo navegable
-[Link a prototipo navegable]()
+[Link a prototipo navegable](https://invis.io/8NSKQYGWCQU)
 
 ## Link de Figma
 [Link a prototipo navegable](https://www.figma.com/file/IRiu59RvKAVfuwHIkfyEKM/App-financiera?node-id=2610%3A0)
