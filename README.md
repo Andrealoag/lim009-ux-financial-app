@@ -14,7 +14,7 @@
 
 <p  align="center">
 
-<img  src="http://i65.tinypic.com/2mmfn9g.png" >
+<img  src="http://i65.tinypic.com/2mmfn9g.png" height="500">
 
 </p>
 
@@ -130,13 +130,13 @@ Para realizar este proyecto hemos escogido y utilizado las siguientes actividade
 
 <p  align="center">
 
-<img  src="http://i67.tinypic.com/ohjki.png" >
+<img  src="http://i64.tinypic.com/2jg0bav.png" >
 
 </p>
 
 <p  align="center">
 
-<img  src="http://i64.tinypic.com/e1d7hs.png" heigth="700">
+<img  src="http://i67.tinypic.com/20g16jp.png" >
 
 </p>
 
