@@ -157,6 +157,13 @@ Para realizar este proyecto hemos escogido y utilizado las siguientes actividade
 
 </p>
 
+### User flow
+<p  align="center">
+
+<img  src="http://i64.tinypic.com/1zf0ue.jpg" >
+
+</p>
+
 ## 4 y 5. PROTOTIPADO Y TESTING
 
 ###  Prototipo de baja fidelidad
@@ -172,7 +179,7 @@ Para realizar este proyecto hemos escogido y utilizado las siguientes actividade
 ###  Feedback (banco Ripley)
 <p  align="center">
 
-<img  src="http://i67.tinypic.com/6sgi1y.png" >
+<img  src="http://i64.tinypic.com/117fvqh.png" >
 
 </p>
 
@@ -207,7 +214,7 @@ Para realizar este proyecto hemos escogido y utilizado las siguientes actividade
 [Link a prototipo navegable](https://www.figma.com/file/IRiu59RvKAVfuwHIkfyEKM/App-financiera?node-id=2610%3A0)
 
 ## Link de Zeplin
-[Link a Zeplin]()
+[Link a Zeplin](https://zpl.io/bz6RnBl)
 
 ## Proyecto en Drive
 [Link a documentación en Google Drive](https://drive.google.com/drive/folders/1-dxbjFv4YzBd6SrMB8hsboVAw0xcpNlc)
