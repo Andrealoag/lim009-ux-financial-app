@@ -217,7 +217,7 @@ Para realizar este proyecto hemos escogido y utilizado las siguientes actividade
 ## V.- ENLACES
 
 ## Prototipo navegable
-[Link a prototipo navegable](https://invis.io/8NSKQYGWCQU)
+[Link a prototipo navegable](https://projects.invisionapp.com/share/RFSJ23O683C#/screens/368942054)
 
 ## Link de Figma
 [Link a prototipo navegable](https://www.figma.com/file/IRiu59RvKAVfuwHIkfyEKM/App-financiera?node-id=2610%3A0)
