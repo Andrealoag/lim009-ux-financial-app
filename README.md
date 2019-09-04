@@ -6,7 +6,7 @@
 
 <p  align="center">
 
-<img  src="http://i66.tinypic.com/wmfgo3.png" >
+<img  src="images/primera.png" >
 
 </p>
 
@@ -14,7 +14,7 @@
 
 <p  align="center">
 
-<img  src="http://i65.tinypic.com/2mmfn9g.png" >
+<img  src="images/2.png">
 
 </p>
 
@@ -44,14 +44,14 @@ Para realizar este proyecto hemos escogido y utilizado las siguientes actividade
 ### Contexto en el Perú
 <p  align="center">
 
-<img  src="http://i68.tinypic.com/2rxceao.png" >
+<img  src="images/3.png" >
 
 </p>
 
 ### Entrevista con el cliente
 <p  align="center">
 
-<img  src="http://i68.tinypic.com/6gls1i.png" >
+<img  src="images/4.png">
 
 </p>
 
@@ -59,13 +59,13 @@ Para realizar este proyecto hemos escogido y utilizado las siguientes actividade
 
 <p  align="center">
 
-<img  src="http://i65.tinypic.com/245kimr.png" >
+<img  src="images/5.png" >
 
 </p>
 
 <p  align="center">
 
-<img  src="http://i68.tinypic.com/2e1vi9g.png" >
+<img  src="images/6.png" >
 
 </p>
 
@@ -73,7 +73,7 @@ Para realizar este proyecto hemos escogido y utilizado las siguientes actividade
 
 <p  align="center">
 
-<img  src="http://i63.tinypic.com/2jg438o.png" >
+<img  src="images/7.png"  >
 
 </p>
 
@@ -82,13 +82,13 @@ Para realizar este proyecto hemos escogido y utilizado las siguientes actividade
 ### Entrevistas con posibles usuarios
 <p  align="center">
 
-<img  src="http://i66.tinypic.com/2r6pgfo.jpg" >
+<img  src="images/8.jpg" >
 
 </p>
 
 <p  align="center">
 
-<img  src="http://i66.tinypic.com/veacft.jpg" >
+<img  src="images/9.jpg" >
 
 </p>
 
@@ -97,7 +97,7 @@ Para realizar este proyecto hemos escogido y utilizado las siguientes actividade
 ### Análisis de la data
 <p  align="center">
 
-<img  src="http://i67.tinypic.com/35hjlhg.png" >
+<img  src="images/10.png" >
 
 </p>
 
@@ -107,7 +107,7 @@ Para realizar este proyecto hemos escogido y utilizado las siguientes actividade
 ### Affinity map
 <p  align="center">
 
-<img  src="http://i65.tinypic.com/34jb2jd.jpg" >
+<img  src="images/11.jpg" >
 
 </p>
 
@@ -115,13 +115,13 @@ Para realizar este proyecto hemos escogido y utilizado las siguientes actividade
 
 <p  align="center">
 
-<img  src="http://i63.tinypic.com/2lcnxa1.png" >
+<img  src="images/12.png" >
 
 </p>
 
 <p  align="center">
 
-<img  src="http://i65.tinypic.com/nyzeig.jpg" >
+<img  src="images/13.jpg" >
 
 </p>
 
@@ -130,20 +130,20 @@ Para realizar este proyecto hemos escogido y utilizado las siguientes actividade
 
 <p  align="center">
 
-<img  src="http://i65.tinypic.com/juzvdi.png" >
+<img  src="images/14.png" >
 
 </p>
 
 <p  align="center">
 
-<img  src="http://i67.tinypic.com/20g16jp.png" >
+<img  src="images/15.png" >
 
 </p>
 
 ### Problem statements
 <p  align="center">
 
-<img  src="http://i67.tinypic.com/2l89n44.png" >
+<img  src="images/16.png" >
 
 </p>
 
@@ -153,14 +153,14 @@ Para realizar este proyecto hemos escogido y utilizado las siguientes actividade
 ### Benchmark de funcionalidades
 <p  align="center">
 
-<img  src="http://i64.tinypic.com/2zz1et0.png" >
+<img  src="images/17.png"  >
 
 </p>
 
 ### User flow
 <p  align="center">
 
-<img  src="http://i64.tinypic.com/1zf0ue.jpg" >
+<img  src="images/userflow.jpg" >
 
 </p>
 
@@ -169,45 +169,46 @@ Para realizar este proyecto hemos escogido y utilizado las siguientes actividade
 ###  Prototipo de baja fidelidad
 <p  align="center">
 
-<img  src="http://i68.tinypic.com/2ltlchy.png" >
+<img  src="images/18.png"  >
 
 </p>
 
 ###  Prototipo de alta fidelidad
 <p  align="center">
 
-<img  src="http://i64.tinypic.com/1zdqijs.png" >
+<img  src="images/19.png"  >
 
 </p>
 
 <p  align="center">
 
-<img  src="http://i67.tinypic.com/m83a1i.png" >
+<img  src="images/20.png" >
 
 </p>
+
 ###  Feedback (banco Ripley)
 <p  align="center">
 
-<img  src="http://i64.tinypic.com/117fvqh.png" >
+<img  src="images/21.png" >
 
 </p>
 
 ###  Testing del prototipo de alta fidelidad
 <p  align="center">
 
-<img  src="http://i67.tinypic.com/6sgi1y.png" >
+<img  src="images/22.png" >
 
 </p>
 
 ###  Segundo prototipo de alta fidelidad
 <p  align="center">
 
-<img  src="http://i68.tinypic.com/13ynzwn.png" >
+<img  src="images/23.png" >
 
 </p>
 <p  align="center">
 
-<img  src="http://i67.tinypic.com/1zmnsch.png" height="500">
+<img  src="images/24.png" >
 
 </p>
 
@@ -215,7 +216,7 @@ Para realizar este proyecto hemos escogido y utilizado las siguientes actividade
 ## IV.- RECOMENDACIONES
 <p  align="center">
 
-<img  src="http://i64.tinypic.com/w5k5z.png" >
+<img  src="images/25.png" >
 
 </p>
 
